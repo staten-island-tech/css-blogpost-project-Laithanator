@@ -1,0 +1,20 @@
+html, 
+body,
+*{
+    margin: 0%;
+    font-size: 16px;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(116, 33, 199);
+}
+h2{
+    color: aqua;
+    font
+}
+h1{
+    color: yellow;
+    text-align: center;
+}
