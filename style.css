@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+
 html, 
 body,
 *{
@@ -8,13 +12,11 @@ body,
 }
 
 body{
-    background-color: rgb(116, 33, 199);
-}
-h2{
-    color: aqua;
-    font
+    background-color: rgb(49, 135, 233);
+    background-image: ;
 }
 h1{
-    color: yellow;
+    font-family:"Creepster", system-ui;
+    font-size: 400%;
     text-align: center;
 }
