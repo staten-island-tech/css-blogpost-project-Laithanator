@@ -13,10 +13,19 @@ body,
 
 body{
     background-color: rgb(49, 135, 233);
-    background-image: ;
+    background-image:url('images/spongebob!.jpg');
+    background-size: cover;
 }
 h1{
     font-family:"Creepster", system-ui;
     font-size: 400%;
     text-align: center;
+}
+div.blog-1{
+    padding: 5%;
+    color: red;
+    
+}
+.blog-pics{
+    width: 300%;
 }
