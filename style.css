@@ -1,31 +1,35 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
 
 
-html, 
+html,
 body,
-*{
+* {
     margin: 0%;
     font-size: 16px;
     padding: 0%;
     box-sizing: border-box;
 }
 
-body{
+body {
     background-color: rgb(49, 135, 233);
-    background-image:url('images/spongebob!.jpg');
+    background-image: url('images/spongebob!.jpg');
     background-size: cover;
 }
-h1{
-    font-family:"Creepster", system-ui;
+
+h1 {
+    font-family: "Creepster", system-ui;
     font-size: 400%;
     text-align: center;
 }
-div.blog-1{
+
+.blogbacking {
     padding: 5%;
-    color: red;
-    
+    background-color: red;
+    width: 50vw;
+    height: 40vw;
+
 }
-.blog-pics{
-    width: 2000px;
+
+.blog-pics {
+    width: 300%;
 }
